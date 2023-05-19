@@ -1,7 +1,7 @@
 <h1 align="center">Hi There 👋</h1>
 <h4 align="center">A passionate Software Tester from Poland</h4>
 
-<h3 align="left">About me:</h3>
+
 
 Hi, I'm Filip! I currently live in Gdańsk, Poland. My journey into the world of testing began because of my curious mind and thirst for knowledge. I've built my foundations in testing through courses and personal research. Work at **uTest.com** gave me practical experience in exploratory testing and bug reporting. <br>My current goal is **ISTQB FL exam** to solidify my knowledge and skills. In my future software testing path, I'm aiming for automation - already built some basics in **Java** and **Selenium**. I realize this is just my beginning in this industry, but I see myself in it with high hopes of spreading my wings.
 <br>While I'm not hunting for bugs I spend my free time at the gym or expressing my creativity in Blender. 
