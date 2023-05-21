@@ -8,7 +8,7 @@ Hi, I'm Filip! I currently live in Gdańsk, Poland. My journey into the world of
  
 
 
-- 🌱 I’m currently learning: **ISTQB syllabus for a FL Certified Tester exam (20.06.23)**
+- 🌱 I’m currently learning: **ISTQB syllabus for a FL Certified Tester exam**
 
 - 👨‍💻 My work are available at: **[Portfolio](https://github.com/FilipGabryel/Portfolio)**
 
