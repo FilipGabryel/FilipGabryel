@@ -20,6 +20,6 @@ Hi, I'm Filip! I currently live in Gdańsk, Poland. My journey into the world of
 
 ### Courses and Certificates:
 + [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-71fd7403-60ec-4414-899c-d3d783957a4e/)     
-+ [EF SET English Certificate 89/100 (C2 Proficient)](https://www.efset.org/cert/a5CfQW)
++ [EF SET Certificate 89/100 (C2 Proficient)](https://www.efset.org/cert/a5CfQW)
 + Kurs Selenium Java od podstaw 
 + uTest Academy
