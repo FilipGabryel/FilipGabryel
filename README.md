@@ -20,7 +20,7 @@ Hi, I'm Filip! I currently live in Gdańsk, Poland. My journey into the world of
 
 ### Courses and Certificates:
 + [ISTQB Certified Tester Foundation Level](https://drive.google.com/file/d/1wd9tRelJajRLfF3YfR54vbb2m7kJJvv2/view?usp=sharing)
-+ [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-71fd7403-60ec-4414-899c-d3d783957a4e/)     
++ [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-71fd7403-60ec-4414-899c-d3d783957a4e/)
++ [Kurs Selenium Java od podstaw](https://www.udemy.com/certificate/UC-22a5ef28-7c07-4931-8eaa-af8ad0ebf8ef/)   
 + [EF SET Certificate 89/100 (C2 Proficient)](https://www.efset.org/cert/a5CfQW)
-+ Kurs Selenium Java od podstaw 
 + uTest Academy
